@@ -1,5 +1,9 @@
 # Learning Infection Risk in Asplenia from Structured and Time-Series Clinical Records
-Demonstration code of work: Learning Infection Risk in Asplenia from Structured and Time-Series Clinical Records
+
+EHR Temporal Embedding for Infection Risk Prediction in Asplenia Patients.
+
+Demonstration code of paper: Learning Infection Risk in Asplenia from Structured and Time-Series Clinical Records, submitted to 
+IEEE Journal of Biomedical and Health Informatics.
 
 # cite
 If you want to cite this work, please cite the following article:
