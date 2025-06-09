@@ -14,6 +14,7 @@ The code and data here included are only for demonstration purposes. If you use 
 	elocation-id = {},
 	year = {2025},
 	publisher = {},
-	journal = {Submitted to IEEE Journal of Biomedical and Health Informatics}
+	doi = {10.36227/techrxiv.174910166.68722208/v1}
+	journal = {TechRxiv}
 }
 ```
